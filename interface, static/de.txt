@@ -1,0 +1,12 @@
+Sử dụng dự án tại đường dẫn https://github.com/thongt/OOPCTK44/tree/master/LapTrinhOOP/ZBai12_QuanLyMayTinh, tạo các lớp trong dự án của mình IThietBi, MayTinh, DanhSachMayTinh,CPU,Ram...và thực hiện các yêu cầu sau:
+
+Chạy các phương thức đã thực hiện trong dự án.
+Tìm máy tính có giá rẻ nhất
+Tìm máy tính có CPU có giá rẻ nhất, cao nhất; Ram cao nhất, thấp nhất
+Tìm hãng có nhiều, ít CPU sử dụng nhất
+Tìm hãng có nhiều, ít RAM sử dụng nhất
+Sắp xếp danh sách máy tính theo: số lượng thiết bị, giá thiết bị, giá CPU, giá RAM, số lượng CPU, số lượng RAM
+Hiển thị danh sách máy tính theo hãng sản xuất
+Xóa tất cả máy tính có CPU theo hãng nào đó
+Cập nhật máy tính nếu CPU của Intel thì giá là 700
+Viết thực đơn gọi các chức năng trên
